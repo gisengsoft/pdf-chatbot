@@ -1,4 +1,4 @@
-# 📚 PDF Chatbot
+# 📚 PDF Chatbot - Gilson Silva
 
 Um assistente inteligente que responde perguntas com base no conteúdo de documentos PDF e TXT usando IA generativa, embeddings e busca vetorial.
 
