@@ -1,0 +1,37 @@
+# Ambiente virtual
+venv/
+.venv/
+env/
+ENV/
+
+# Arquivos de cache Python
+__pycache__/
+*.py[cod]
+*$py.class
+.pytest_cache/
+
+# Variáveis de ambiente
+.env
+
+# Arquivos de banco de dados/vetores
+vector_store/*
+!vector_store/.gitkeep
+
+# Histórico de chat
+chat_history_*.json
+
+# Logs
+*.log
+
+# Arquivos do sistema
+.DS_Store
+Thumbs.db
+
+# Arquivos de IDE
+.idea/
+.vscode/
+*.swp
+*.swo
+
+# Configurações Jupyter
+.ipynb_checkpoints

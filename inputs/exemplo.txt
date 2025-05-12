@@ -1,0 +1,5 @@
+Engenharia de Software envolve práticas como testes automatizados, versionamento e análise de requisitos.
+A Engenharia de Software também enfatiza o ciclo de desenvolvimento iterativo e metodologias ágeis.
+Documentação detalhada é um aspecto importante em projetos de Engenharia de Software, incluindo diagramas UML.
+O gerenciamento de projetos em Engenharia de Software pode usar métodos como Scrum, Kanban ou XP.
+A qualidade de software é avaliada através de métricas, testes e revisões de código em Engenharia de Software.
